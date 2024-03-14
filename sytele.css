@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+p{
+    color: blueviolet;
+}
+body{
+    background-color: rgba(0, 183, 255, 0.384);
+    font-style: italic;
+}
+footer{
+    border-top: 2px solid orangere;
+    color: blue;
+}
